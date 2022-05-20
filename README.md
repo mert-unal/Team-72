@@ -1,144 +1,104 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@mert-unal 
-Takim-72
-/
-Takim72repo
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Takim72repo
-/
-README.md
-in
-main
- 
-
-Spaces
-
-2
-
-Soft wrap
-1
 # **Takım İsmi**
-2
-​
-3
 Takım 72
-4
-​
-5
+
 # Ürün İle İlgili Bilgiler
-6
-​
-7
+
+
 ## Takım Elemanları
-8
-​
-9
-- İbrahim Alperen Sayın: Product Owner
-10
+
 - Fatıma Zehra Yüksel: Scrum Master
-11
 - Baran Baranoğlu: Developer
-12
 - Şevval Betül Sakallı: Developer
-13
-- Mert Ünal: Developer
-14
-​
-15
+- Mert Ünal: Product Owner
+
 ## Ürün İsmi
-16
-​
-17
---Road to Valhalla--
-18
-​
-19
+
+--Master Castle--
+
 ## Ürün Açıklaması
-20
-​
-21
+
 - Rail shooter türündeki oyunumuz minimal bir oynanış mekaniği barındıran İskandinav mitolojisi temalı iki boyutlu bir hayatta kalma, macera oyunudur. Karakterin saklanabileceği herhangi bir yer olmadığı için kurgu oyuncunun oyun süresince hayatta kalması üzerine oluşturulmuştur. 
-22
-​
-23
+
 ## Ürün Özellikleri
-24
-​
-25
+
 - 2 Boyutlu
-26
 - Değiştirilebilir itemlar ile farklı durumlar 
-27
 - Minimal oynanış mekanikli
-28
 - Güçlendirmeler ile karakterin desteklenmesi
-29
-​
-30
+
 ## Hedef Kitle
-31
-​
-32
+
 - 18 - 35 yaş arası kullanıcılar 
-33
 - Hayatta kalma, aksiyon ve macera oyunseverlerine özel
-34
-​
-35
-​
-36
+
 ## Product Backlog URL
-37
-​
-38
+
 [Miro Backlog Board](https://miro.com/app/board/uXjVOIrA43k=/?share_link_id=374646138122)
-39
-​
-40
----
-41
-​
-42
+
 # Sprint 1
-43
-​
-44
+
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
-Dosya seçilmedi
-Attach files by dragging & dropping, selecting or pasting them.
-@mert-unal
-Commit changes
-Commit summary
-Create README.md
-Optional extended description
-Add an optional extended description…
- Commit directly to the main branch.
- Create a new branch for this commit and start a pull request. Learn more about pull requests.
- 
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 100 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Story görevinde puan açısından en büyük yüzdeliğe sahip olmasıyla oyunda İskandinav mitolojisi kullanılması kararlaştırlmıştır.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının kullanılabilirliği ve belge depolanabilirliği vasıtasıyla Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği png olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum screenshot]
+- (https://github.com/Takim-72/Takim72repo/blob/main/g%C3%B6r%C3%BC%C5%9Fme.png)
+- (https://github.com/Takim-72/Takim72repo/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-05-10%20211205.png)
+
+- **Sprint board update**: 
+- (https://github.com/Takim-72/Takim72repo/blob/main/takim72%20(1).jpg)
+
+
+- **Ürün Durumu**: Ürün ile ilgili görüntü alınabilir bir ilerleme gerçekleşmedi. Ana hatlar belirlendi.
+
+- **Sprint Review**: 
+Alınan kararlar: İskandinav mitolojisindeki itemlarda ücretsiz assetler kullanılması gerektiği için basic ve eşsiz olmayan itemlar yapılması kararlaştırılmıştır. İtem storylerin belirlenmesi için dosya oluşturuldu. 
+Sprint Review katılımcıları: Mert Ünal & Baran Baranoğlu & Şevval Betül Sakallı & Fatıma Zehra Yüksel
+
+- **Sprint Retrospective:**
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
+  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
+  - Assetler belirlenmeli ve senaryo kararlaştırılacak.
+
+-**Diğer Notlar**:
+
+---
+# Sprint 2
+
+- **Sprint Notları**: Takımdaki Alperen Sayın arkadaşa ulaşılamadığı için projede değişikliğe ve takım arkadaşları arasında görev değişikliğine gidildi. Product Owner görevini üstlenmiş olan "Alperen Sayın" yerine Mert Ünal görevi devralmıştır. Yapılmış olan değişiklikler sebebiyle
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 100 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Story görevinde puan açısından en büyük yüzdeliğe sahip olmasıyla oyunda İskandinav mitolojisi kullanılması kararlaştırlmıştır.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının kullanılabilirliği ve belge depolanabilirliği vasıtasıyla Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği png olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum screenshot]
+- (https://github.com/Takim-72/Takim72repo/blob/main/g%C3%B6r%C3%BC%C5%9Fme.png)
+- (https://github.com/Takim-72/Takim72repo/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-05-10%20211205.png)
+
+- **Sprint board update**: 
+- (https://github.com/Takim-72/Takim72repo/blob/main/takim72%20(1).jpg)
+
+
+- **Ürün Durumu**: Ürün ile ilgili görüntü alınabilir bir ilerleme gerçekleşmedi. Ana hatlar belirlendi.
+
+- **Sprint Review**: 
+Alınan kararlar: İskandinav mitolojisindeki itemlarda ücretsiz assetler kullanılması gerektiği için basic ve eşsiz olmayan itemlar yapılması kararlaştırılmıştır. İtem storylerin belirlenmesi için dosya oluşturuldu. 
+Sprint Review katılımcıları: Mert Ünal & Baran Baranoğlu & Şevval Betül Sakallı & Fatıma Zehra Yüksel
+
+- **Sprint Retrospective:**
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
+  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
+  - Assetler belirlenmeli ve senaryo kararlaştırılacak.
+
+-**Diğer Notlar**:
+
