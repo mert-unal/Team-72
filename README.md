@@ -96,7 +96,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 - **Sprint Review**: 
-Alınan kararlar: İskandinav mitolojisindeki itemlarda ücretsiz assetler kullanılması gerektiği için basic ve eşsiz olmayan itemlar yapılması kararlaştırılmıştır. İtem storylerin belirlenmesi için dosya oluşturuldu. 
+Alınan kararlar: Yapılan araştırmalar sonrası karakter assetleri belirlenmiş ve kodların üzerinden geçilmiştir.
 Sprint Review katılımcıları: Mert Ünal & Baran Baranoğlu & Şevval Betül Sakallı & Fatıma Zehra Yüksel
 
 - **Sprint Retrospective:**
