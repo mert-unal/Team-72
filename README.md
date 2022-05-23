@@ -71,15 +71,15 @@ Sprint Review katılımcıları: Mert Ünal & Baran Baranoğlu & Şevval Betül 
 ---
 # Sprint 2
 
-- **Sprint Notları**: Takımdaki Alperen Sayın arkadaşa ulaşılamadığı için projede değişikliğe ve takım arkadaşları arasında görev değişikliğine gidildi. Product Owner görevini üstlenmiş olan "Alperen Sayın" yerine Mert Ünal görevi devralmıştır. Yapılmış olan değişiklikler sebebiyle
+- **Sprint Notları**: Takımdaki Alperen Sayın arkadaşa ulaşılamadığı için projede değişikliğe ve takım arkadaşları arasında görev değişikliğine gidildi. Product Owner görevini üstlenmiş olan "Alperen Sayın" yerine Mert Ünal görevi devralmıştır. Yapılmış olan görev değişiklikleri sebebiyle oyun hikayesinde ve karakter sayısında düzenlemeye gidildi.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 100 ile başlaması gerektiğine karar verildi.
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Story görevinde puan açısından en büyük yüzdeliğe sahip olmasıyla oyunda İskandinav mitolojisi kullanılması kararlaştırlmıştır.
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Oyunun ana karakterlerinin belirlenmesi puan açısından en büyük yüzdeliğe sahip olmasıyla oyundaki karakterlerin hareket ve animasyonlarının tanımlanması kararlaştırılmıştır.
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+User Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının kullanılabilirliği ve belge depolanabilirliği vasıtasıyla Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği png olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum screenshot]
 - (https://github.com/Takim-72/Takim72repo/blob/main/g%C3%B6r%C3%BC%C5%9Fme.png)
@@ -89,16 +89,16 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - (https://github.com/Takim-72/Takim72repo/blob/main/takim72%20(1).jpg)
 
 
-- **Ürün Durumu**: Ürün ile ilgili görüntü alınabilir bir ilerleme gerçekleşmedi. Ana hatlar belirlendi.
+- **Ürün Durumu**: 
 
-- **Sprint Review**: 
-Alınan kararlar: İskandinav mitolojisindeki itemlarda ücretsiz assetler kullanılması gerektiği için basic ve eşsiz olmayan itemlar yapılması kararlaştırılmıştır. İtem storylerin belirlenmesi için dosya oluşturuldu. 
+- **Sprint Review**:
+-  
+Alınan kararlar: 
+
 Sprint Review katılımcıları: Mert Ünal & Baran Baranoğlu & Şevval Betül Sakallı & Fatıma Zehra Yüksel
 
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Assetler belirlenmeli ve senaryo kararlaştırılacak.
-
--**Diğer Notlar**:
+  - Assetler üzerinden karakterlerin kodları düzenlenmeli ve gerekli animasyonlar belirlenmeli.
 
