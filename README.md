@@ -92,7 +92,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Ürün Durumu**: Ürün ile ilgili görüntü alınabilir bir ilerleme gerçekleşmedi. Ana hatlar belirlendi.
 [Code of characters](https://github.com/mert-unal/Team-72/blob/0263253898acec5a7af2223893e5c75dfc3b9f38/sprint2/code%20image.png)
-[Kullanıcı arayüzü karşılama ekranı](https://github.com/mert-unal/Team-72/blob/0263253898acec5a7af2223893e5c75dfc3b9f38/sprint2/ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.png)
+//[Kullanıcı arayüzü karşılama ekranı](https://github.com/mert-unal/Team-72/blob/0263253898acec5a7af2223893e5c75dfc3b9f38/sprint2/ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.png)
 
 
 - **Sprint Review**: 
