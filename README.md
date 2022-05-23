@@ -75,9 +75,9 @@ Sprint Review katılımcıları: Mert Ünal & Baran Baranoğlu & Şevval Betül 
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 100 ile başlaması gerektiğine karar verildi.
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Story görevinde puan açısından en büyük yüzdeliğe sahip olmasıyla oyunda İskandinav mitolojisi kullanılması kararlaştırlmıştır.
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz yapılacak story'lere göre düzenlenmiştir. Görevlerin tamamlanmasında Story'ye en fazla düşen pay karakterlerin oluşturulması ve onlar hakkında kodların yazılmasıydı. Bu doğrultuda tasklar belirlendi. Alınması planlanan tam puana ulaşılamasa da yeterli düzeyde çalışma gerçekleştirildi. 
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
