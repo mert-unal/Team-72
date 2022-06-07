@@ -88,7 +88,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint board update**: 
 [Backlog görevleri puanlandırma tablosu](https://github.com/mert-unal/Team-72/blob/0263253898acec5a7af2223893e5c75dfc3b9f38/sprint2/sprint2.png)
-// [Backlog düzeni](https://github.com/mert-unal/Team-72/blob/0f854c49341ca970330646627357f6176500551d/sprint2/backlog%20sprint2.png)
+// [Backlog düzeni]([https://github.com/mert-unal/Team-72/blob/0f854c49341ca970330646627357f6176500551d/sprint2/backlog%20sprint2.png](https://github.com/mert-unal/Team-72/blob/102248eeb8c3f3dbd812474600c3909c75fc832b/sprintphotos/backlog%20sprint%203.png))
 
 - **Ürün Durumu**: Ürün ile ilgili görüntü alınabilir bir ilerleme gerçekleşmedi. Ana hatlar belirlendi.
 [Code of characters](https://github.com/mert-unal/Team-72/blob/0263253898acec5a7af2223893e5c75dfc3b9f38/sprint2/code%20image.png)
