@@ -121,7 +121,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Daily Scrum**: Daily Scrum toplantılarının kullanılabilirliği ve belge depolanabilirliği vasıtasıyla Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği png olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Screenshot](https://github.com/mert-unal/Team-72/blob/0263253898acec5a7af2223893e5c75dfc3b9f38/sprint2/DailyScrumMeetinng72.docx)
 
 - **Sprint board update**: 
-[Backlog görevleri puanlandırma tablosu]()
+[Backlog görevleri puanlandırma tablosu](https://github.com/mert-unal/Team-72/blob/102248eeb8c3f3dbd812474600c3909c75fc832b/sprintphotos/sprint3.png)
 // [Backlog düzeni](https://github.com/mert-unal/Team-72/blob/102248eeb8c3f3dbd812474600c3909c75fc832b/sprintphotos/backlog%20sprint%203.png)
 
 - **Ürün Durumu**: Ürün tamamlandı videosu ayarlandı. Google formlar ile akademiye iletildi.
