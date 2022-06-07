@@ -47,9 +47,7 @@ Takım 72
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının kullanılabilirliği ve belge depolanabilirliği vasıtasıyla Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği png olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum screenshot]
-- (https://github.com/Takim-72/Takim72repo/blob/main/g%C3%B6r%C3%BC%C5%9Fme.png)
-- (https://github.com/Takim-72/Takim72repo/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-05-10%20211205.png)
+- **Daily Scrum**: Daily Scrum toplantılarının kullanılabilirliği ve belge depolanabilirliği vasıtasıyla Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği png olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum screenshot](https://github.com/Takim-72/Takim72repo/blob/main/g%C3%B6r%C3%BC%C5%9Fme.png) ----- [Sprint 1 Daily Scrum screenshot-2](https://github.com/Takim-72/Takim72repo/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-05-10%20211205.png)
 
 - **Sprint board update**: 
 - (https://github.com/Takim-72/Takim72repo/blob/main/takim72%20(1).jpg)
