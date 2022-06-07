@@ -135,5 +135,7 @@ Sprint Review katılımcıları: Mert Ünal & Baran Baranoğlu & Şevval Betül 
 - **Sprint Retrospective:**
   - Oyundaki UI tasarımı, sahne tasarımı, karakterler ve ses efektleri birleştirilerek build edildi.
 
+  - Oyunumuzun exe. dosyasının olduğu drive linkimiz: [Exe. dosyası](https://drive.google.com/file/d/1px8SGisIGXD-2ZBLZny6HUE5gv5df3hS/view?usp=sharing )
+
 -**Diğer Notlar**:
 
