@@ -106,3 +106,34 @@ Sprint Review katılımcıları: Mert Ünal & Baran Baranoğlu & Şevval Betül 
 
 -**Diğer Notlar**:
 
+# Sprint 3
+
+- **Sprint Notları**: Kararlaştırılan bütün görevler tamamlandı. Oyunun exe. dosyası çıkartılıp 1.5dk lık videosu çekilerek YouTube'a yüklendi.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'e 100 puan kaldı.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz yapılacak story'lere göre düzenlenmiştir. Görevlerin tamamlanmasında Story'ye en fazla düşen pay oyunun tamamlanması için gerekli bütün eksiklerin tamamlanması ve gerekli küçük düzenlemelerin tamamlanmasıydı.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının kullanılabilirliği ve belge depolanabilirliği vasıtasıyla Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği png olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Screenshot](https://github.com/mert-unal/Team-72/blob/0263253898acec5a7af2223893e5c75dfc3b9f38/sprint2/DailyScrumMeetinng72.docx)
+
+- **Sprint board update**: 
+[Backlog görevleri puanlandırma tablosu](https://github.com/mert-unal/Team-72/blob/0263253898acec5a7af2223893e5c75dfc3b9f38/sprint2/sprint2.png)
+// [Backlog düzeni](https://github.com/mert-unal/Team-72/blob/0f854c49341ca970330646627357f6176500551d/sprint2/backlog%20sprint2.png)
+
+- **Ürün Durumu**: Ürün ile ilgili görüntü alınabilir bir ilerleme gerçekleşmedi. Ana hatlar belirlendi.
+[Code of characters](https://github.com/mert-unal/Team-72/blob/0263253898acec5a7af2223893e5c75dfc3b9f38/sprint2/code%20image.png)
+// [Kullanıcı arayüzü karşılama ekranı](https://github.com/mert-unal/Team-72/blob/0263253898acec5a7af2223893e5c75dfc3b9f38/sprint2/ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.png)
+
+- **Sprint Review**: 
+Alınan kararlar: Yapılan bütün iç bölümleri kendi içinde tamamlandı. Oyun bütün hatları ile bir kişide birleştirildi.
+Sprint Review katılımcıları: Mert Ünal & Baran Baranoğlu & Şevval Betül Sakallı & Fatıma Zehra Yüksel
+
+- **Sprint Retrospective:**
+  - Oyundaki UI tasarımı, sahne tasarımı, karakterler ve ses efektleri birleştirilerek build edildi.
+
+-**Diğer Notlar**:
+
